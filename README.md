@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://sydesb.github.io/carterfidservomoteur/](https://sydesb.github.io/carterfidservomoteur/)
+> Ouvrir cette page à [https://sydesb.github.io/CarteRFIDServomoteur/](https://sydesb.github.io/CarteRFIDServomoteur/)
 
 ## Utiliser comme extension
 
